@@ -1,0 +1,10 @@
+Get input email from user.
+Get input password from user.
+ 
+Check input user.
+IF (email and password) equals to data on database
+    Go to homepage
+ELSE
+    PRINT login gagal, silakan ulangi kembali
+    User input email and password again
+END IF
