@@ -1,0 +1,1 @@
+We want to create a login application. When the user enters the email and password that matches the data stored in the database, he can enter the main page. If it doesn't match, then the user is welcome to enter the email and password again.
