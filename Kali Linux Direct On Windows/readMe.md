@@ -27,7 +27,7 @@
 * RESTART the game again (i mean computer , just sh*t joke :) Come on !! hehe)
 * Download Linux Kernel: ``` https://aka.ms/wsl2kernel ```
 * SET DEFAULT TO WSL 2
-
-  ``` wsl --set-default-version 2
+  ```
+   wsl --set-default-version 2
   ```
 * And Holla! Congrats You can get kali linux in your own microsoft store like regular application
